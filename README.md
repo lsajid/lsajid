@@ -3,7 +3,10 @@
 My name is Laiba (Lay-ba). Im currently an undergraduate student at Lehman College CUNY.
 
 Here are some fun projects I'm currently working on ...
--> Matrix calculator
+- Matrix calculator
+
+Previous Porjects 
+- Database Project CMP 168
 
 When I'm not coding I'm either watching anime or spending time in the gym, or swimming. Some new hobbies I am trying out are hiking!
 
